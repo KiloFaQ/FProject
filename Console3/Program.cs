@@ -1,32 +1,39 @@
-﻿using System;
-
+﻿// создаем класс Circle
 class Circle
 {
-    private double radius;
+    // переменная радиус
+    double radius;
 
-    public Circle(double radius)
+    // конструктор класса
+    public Circle(double r)
     {
-        this.radius = radius;
+        radius = r;
     }
 
-    public double Area()
+    // метод нахождения площади круга
+    public double GetArea()
     {
-        return Math.PI * Math.Pow(radius, 2);
+        return Math.PI * radius * radius;
     }
 
-    public double Circumference()
+    // метод нахождения длины окружности
+    public double GetCircumference()
     {
         return 2 * Math.PI * radius;
     }
 }
 
+// создаем класс программы
 class Program
 {
+    // создаем метод Main
     static void Main(string[] args)
     {
+        // создаем объект класса Circle и передаем ему значение радиуса
         Circle circle = new Circle(5);
 
-        Console.WriteLine("Площадь круга: " + circle.Area());
-        Console.WriteLine("Длина окружности: " + circle.Circumference());
+        // выводим результаты методов в консоль
+        Console.WriteLine("Площадь круга: " + circle.GetArea());
+        Console.WriteLine("Длина окружности: " + circle.GetCircumference());
     }
 }
