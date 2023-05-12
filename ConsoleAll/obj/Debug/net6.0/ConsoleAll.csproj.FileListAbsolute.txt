@@ -1,0 +1,15 @@
+C:\Users\kilor\Desktop\FProject\ConsoleAll\bin\Debug\net6.0\ConsoleAll.exe
+C:\Users\kilor\Desktop\FProject\ConsoleAll\bin\Debug\net6.0\ConsoleAll.deps.json
+C:\Users\kilor\Desktop\FProject\ConsoleAll\bin\Debug\net6.0\ConsoleAll.runtimeconfig.json
+C:\Users\kilor\Desktop\FProject\ConsoleAll\bin\Debug\net6.0\ConsoleAll.dll
+C:\Users\kilor\Desktop\FProject\ConsoleAll\bin\Debug\net6.0\ConsoleAll.pdb
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.csproj.AssemblyReference.cache
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.AssemblyInfoInputs.cache
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.AssemblyInfo.cs
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.csproj.CoreCompileInputs.cache
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.dll
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\refint\ConsoleAll.dll
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.pdb
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ConsoleAll.genruntimeconfig.cache
+C:\Users\kilor\Desktop\FProject\ConsoleAll\obj\Debug\net6.0\ref\ConsoleAll.dll
